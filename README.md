@@ -12,7 +12,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 Full Stack Web Developer | Mobile App Developer - Android & React Native | Data Engineer Enthusiast | Neobanking
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/samkit5495/.github/main/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/samkit5495/samkit5495/main/.github/.resources/git-header.svg" />
 
 - 📫 How to reach me: me@samkitjain.in
 - 📫 Read my blogs: https://blog.samkitjain.in/
